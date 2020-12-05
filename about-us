@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<!--
+	Broadcast by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>About Us - Team Azid</title>
+		<link rel="shortcut icon" type="image/png" href="images/favicon.png">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+			h1, h2 {
+			  font-family: slant;
+			  font-weight: 100;
+			}
+			</style>
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<h1><a href="https://www.teamazid.com/">TEAM AZID</a></h1>
+				<a href="#menu">Menu</a>
+			</header>
+
+		<!-- Nav -->
+        <nav id="menu">
+            <ul class="links">
+                <li><a href="https://www.teamazid.com/">Home</a></li>
+                <li><a href="https://teespring.com/stores/team-azid" target="_blank">Shop</a></li>
+                <li><a href="https://www.teamazid.com/#members" class="alt scrolly">Members</a></li>
+                <li><a href="about-us">About Us</a></li>
+            </ul>
+        </nav>
+
+		<!-- Main -->
+			<div id="main">
+
+			<!-- One -->
+				<section class="wrapper style1">
+					<div class="inner">
+						<header class="align-center">
+							<h2>ABOUT US</h2>
+							<p>Team Azid is a group of 8 friends having fun and producing content together.<br>We are gamers, creators, and everthing in between. </p>
+							<ul class="icons">
+								<li><a href="https://twitter.com/TeamAzid" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.youtube.com/channel/UCvrWuUPzv6Jh0yMAkhG7CDA" target="_blank" class="icon fa-youtube-play"><span class="label">Facebook</span></a></li>
+								<li><a href="https://www.twitch.tv/azidlive" target="_blank" class="icon fa-twitch"><span class="label">Snapchat</span></a></li>
+								<li><a href="https://www.instagram.com/azidteam/" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							</ul>
+						</header>
+						<div class="video">
+							<div class="video-wrapper">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/cVqiU1r0jJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>
+							<p class="caption">
+								Introducing Team Azid
+							</p>
+						</div>
+					</div>
+				</section>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="inner">
+				<div class="flex flex-3">
+					<div class="col">
+						<ul class="alt">
+							<li><a href="https://www.teamazid.com/">Home</a></li>
+							<li><a href="https://teespring.com/stores/team-azid">Shop</a></li>
+							<li><a href="https://www.teamazid.com/#members" class="alt scrolly">Members</a></li>
+							<li><a href="about-us">About Us</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="copyright">
+				Copyright &copy; 2020 <a href="https://teamazid.com">Team Azid</a>. All rights reserved.
+			</div>
+		</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
